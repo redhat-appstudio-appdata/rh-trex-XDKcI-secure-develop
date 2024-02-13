@@ -14,7 +14,7 @@ metadata:
     io.kompose.service: trex
   name: rh-trex
 spec:
-  replicas: 1
+  replicas: 0
   revisionHistoryLimit: 0
   selector:
     matchLabels:
